@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bragesande94
 - 👀 I’m interested in Software and IT Architecture, programming and business development.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Google Chrome Plugins.
 - 📫 Reach me at https://www.linkedin.com/in/brage-sande/
 
 <!---
